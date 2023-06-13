@@ -138,6 +138,9 @@ span b{
     color: var(--Red);
 }
 @media (max-width: 866px) {
+    main{
+            background: url(bg-intro-mobile.png) var(--Red);
+    }
     .card{
         flex-direction: column;
         margin: auto;
