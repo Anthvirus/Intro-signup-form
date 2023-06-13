@@ -63,6 +63,7 @@ body{
     color: var(--Grayish-Blue);
 }
 .offer b{
+    font-size: 13px;
     margin-right: 5px;
     font-weight: 700;
     color: white;
@@ -139,7 +140,7 @@ span b{
 }
 @media (max-width: 866px) {
     main{
-            background: url(bg-intro-mobile.png) var(--Red);
+        background: url(bg-intro-mobile.png) var(--Red);
     }
     .card{
         flex-direction: column;
